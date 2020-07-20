@@ -1,0 +1,15 @@
+src\meep\repository\VehicleRepository.class
+src\meep\model\Vehicle.class
+src\meep\batch\VehicleApiReader.class
+src\meep\repository\entity\VehicleEntity.class
+src\meep\batch\VehicleProcesser.class
+src\meep\client\VehicleClient.class
+src\meep\batch\UpdateVehicleDataWriter.class
+src\meep\config\UpdateVehiclesJobConfig.class
+src\meep\model\Vehicle$VehicleBuilder.class
+src\meep\client\VehicleFeignClient.class
+src\meep\config\BatchConfig.class
+src\meep\batch\DeleteLeftoverVehiclesTasklet.class
+src\meep\repository\entity\VehicleEntity$VehicleEntityBuilder.class
+src\meep\VehicleService.class
+src\meep\BatchApplication.class

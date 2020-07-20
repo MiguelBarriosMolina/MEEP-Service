@@ -1,0 +1,13 @@
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\repository\entity\VehicleEntity.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\batch\DeleteLeftoverVehiclesTasklet.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\batch\VehicleProcesser.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\client\VehicleFeignClient.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\BatchApplication.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\config\UpdateVehiclesJobConfig.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\config\BatchConfig.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\VehicleService.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\batch\UpdateVehicleDataWriter.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\batch\VehicleApiReader.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\repository\VehicleRepository.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\model\Vehicle.java
+E:\workspaces\MEEP-Service\meep-service-application\src\main\java\src\meep\client\VehicleClient.java

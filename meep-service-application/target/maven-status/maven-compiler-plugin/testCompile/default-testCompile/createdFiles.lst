@@ -1,0 +1,6 @@
+src\meep\batch\VehicleProcesserTest.class
+src\meep\client\VehicleClientTest.class
+src\meep\VehicleServiceTest.class
+src\meep\batch\DeleteLeftoverVehiclesTaskletTest.class
+src\meep\batch\UpdateVehicleDataWriterTest.class
+src\meep\batch\VehicleApiReaderTest.class
