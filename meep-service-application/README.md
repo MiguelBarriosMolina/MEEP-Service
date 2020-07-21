@@ -40,6 +40,6 @@ You can check on the database visiting this page and logging in with the followi
 - username: sa 
 - password: 
 
-
+You can find the data retrieved by the service in the Vehicle_entity table
 
  
